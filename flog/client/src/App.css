@@ -1,0 +1,26 @@
+html, body { height: 100%; }
+
+._overflow-auto { overflow: auto; }
+
+/*  EARTH TONES */
+._background-pastel-blue { background-color: #A7CECB; }
+
+._background-pewter-blue { background-color: #8BA6A9; }
+
+._background-french-bistre { background-color: #75704E; }
+
+._background-spring-bud { background-color: #CACC90; }
+
+._background-lemon-meringue { background-color: #F4EBBE; }
+
+/*  COOL COLORS */
+
+._background-gunmetal { background-color: #1F363D; }
+
+._background-teal-blue { background-color: #40798C; }
+
+._background-green-sheen { background-color: #70A9A1; }
+
+._background-cambridge { background-color: #9EC1A3; }
+
+._background-pastel-gray { background-color: #CFE0C3; }

@@ -1,0 +1,22 @@
+
+.sidebar {
+    max-width: 300px;
+    z-index:2;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.filter-selector-row {
+    height: 50px;
+    font-size: 30px;
+}
+
+.filter-selector-icon {
+    background-color: #CFE0C3;
+    transition: all .15s ease-in-out;
+    cursor: pointer;
+    color: #1F363D;
+}
+
+.filter-selector-icon:hover, .filter-selector-icon.active {
+    background-color: #9EC1A3;
+}
